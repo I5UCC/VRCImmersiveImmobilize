@@ -1,0 +1,15 @@
+{
+  "name": "com.i5ucc.vrcimmersiveimmobilize",
+  "displayName": "VRCImmersiveImmobilize",
+  "version": "0.1.0",
+  "description": "Automatically immobilizing an avatar, when the sticks moving.",
+  "files": [
+    "Editor/VRCImmersiveImmobilize_Installer.cs",
+    "Editor/AnimatorCloner.cs",
+	"EmptyClip.anim",
+	"VRCII_FX.controller",
+	"VRCII_Menu.asset",
+	"VRCII_Parameters.asset"
+  ],
+  "type": "tool"
+}
