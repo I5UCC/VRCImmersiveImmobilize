@@ -113,8 +113,6 @@ namespace I5UCC.VRCImmersiveImmobilize
                     parametersToAdd = AssetDatabase.LoadAssetAtPath(parameterPath, typeof(VRCExpressionParameters)) as VRCExpressionParameters;
                     menuToAdd = AssetDatabase.LoadAssetAtPath(menuPath, typeof(VRCExpressionsMenu)) as VRCExpressionsMenu;
 
-                    Debug.LogWarning(animatorToAdd);
-
                     if (targetAvatar.baseAnimationLayers[layerindex].animatorController == animatorToAdd)
                         GUI.enabled = false;
                     else
