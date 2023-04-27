@@ -1,10 +1,12 @@
-# VRCImmersiveImmobilize
+# VRCImmersiveImmobilize [![Github All Releases](https://img.shields.io/github/downloads/i5ucc/VRCImmersiveImmobilize/total.svg)](https://github.com/I5UCC/VRCImmersiveImmobilize/releases/latest) <a href='https://ko-fi.com/i5ucc' target='_blank'><img height='35' style='border:0px;height:25px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
 Workaround for the remote IK jitter issue and allows entering objects/walls in VRChat when using full body tracking. <br>
 
 This functions similarly to [SouljaVR/AutoImmobilizeOSC](https://github.com/SouljaVR/AutoImmobilizeOSC) while not using the controllers touch capacitors to trigger immobilization, but rather the state of movement on both sticks. Hence fixing the problem while trying to make the user feel like its not even there. <br>
 
 ### Please upvote this [VRChat Canny](https://feedback.vrchat.com/vrchat-ik-20/p/network-jitter-with-ik) to get this problem fixed on VRChats end.
+
+### [<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg"  width="20" height="20"> Discord Support Server](https://discord.gg/rqcWHje3hn)
 
 # Download
 
