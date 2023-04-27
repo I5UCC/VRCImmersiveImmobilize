@@ -23,3 +23,30 @@ PS: You can also add `https://i5ucc.github.io/vpm/main.json` to add all of my pr
 # Demonstration
 
 [Soon TM]
+
+# Installation
+
+### Automatic Install
+- Add the package over VCC or Unitypackage to your project.
+- Drag and Drop your avatar to the empty object saying "None (VRC Avatar Descriptor)"
+- Click on install <br>
+![grafik](https://user-images.githubusercontent.com/43730681/234945785-ffd37e32-9619-498a-9a81-9c120c26dc38.png)
+- After clicking install, a new layer named "ImmersiveImmobilize" is added to your FX controller and the parameters are added to the Expression parameters. Additionally a manual toggle is added to your Expression Menu.
+- Continue at [#ThumbparamsOSC](https://github.com/I5UCC/VRCImmersiveImmobilize#thumbparamsosc)
+
+### Manual Install
+- Add the package over VCC or Unitypackage to your project.
+- Merge "VRCII_FX" in "Packages/VRCImmersiveImmobilize" with your current FX layer on your avatar, using a tool like "Avatars 3.0 Manager"
+- Add the following Parameters to your avatars Expression Parameters:
+    - LeftStickMoved (Bool)
+    - RightStickMoved (Bool)
+    - Immobilize (Bool)
+- Add a new Control to your Avatars Expression menu with the type "Toggle" and using the parameter "Immobilize"
+
+### ThumbparamsOSC
+This program needs [ThumbparamsOSC](https://github.com/I5UCC/VRCThumbParamsOSC) running in the background, to capture stick movements and send that information to your Avatar via OSC.
+Read the Documentation on ThumbparamsOSC, on how to set it up. For this case, we only need the two parameters "LeftStickMoved" and "RightStickMoved". You can turn off any other parameters ThumbparamsOSC is sending to VRChat, if you wish so.
+
+### Testing if it works
+You can check VRChats debug menu to see if the Parameter "Locomotion" switches between "Disabled" and "Enabled", depending if you are moving or not.
+If that isnt working, follow [ThumbparamsOSC Troubleshooting steps](https://github.com/I5UCC/VRCThumbParamsOSC#osc-troubleshoot).
