@@ -45,6 +45,7 @@ PS: You can also add `https://i5ucc.github.io/vpm/main.json` to add all of my pr
     - RightStickMoved (Bool)
     - Immobilize (Bool)
 - Add a new Control to your Avatars Expression menu with the type `Toggle` and using the parameter `Immobilize`
+- Continue at [#ThumbparamsOSC](https://github.com/I5UCC/VRCImmersiveImmobilize#thumbparamsosc)
 
 ### ThumbparamsOSC
 This program needs [ThumbparamsOSC](https://github.com/I5UCC/VRCThumbParamsOSC) running in the background, to capture stick movements and send that information to your Avatar via OSC.
