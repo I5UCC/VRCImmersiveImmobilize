@@ -12,6 +12,12 @@ This functions similarly to [SouljaVR/AutoImmobilizeOSC](https://github.com/Soul
 
 Either download the latest release from [here](https://github.com/I5UCC/VRCImmersiveImmobilize/releases/latest), or add my Repository to VCC (VRChat Creator Companion):
 
+[<img src="https://user-images.githubusercontent.com/43730681/235305688-08099e52-2ea8-4b28-b647-4cef10c4d073.png"  width="270" height="35">](https://i5ucc.github.io/vpm/VRC-ASL_Gestures.html) <br>
+
+or <br>
+
+[<img src="https://user-images.githubusercontent.com/43730681/235304229-ce2b4689-4945-4282-967e-40bfbf8ebf54.png"  width="181" height="35">](https://i5ucc.github.io/vpm/main.html) <br>
+
 1. Open VCC
 2. Click `Settings` in the bottom left
 3. Click the `Packages` tab at the top
