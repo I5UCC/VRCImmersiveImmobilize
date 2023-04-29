@@ -18,6 +18,8 @@ or <br>
 
 [<img src="https://user-images.githubusercontent.com/43730681/235304229-ce2b4689-4945-4282-967e-40bfbf8ebf54.png"  width="181" height="35">](https://i5ucc.github.io/vpm/main.html) <br>
 
+Manually adding to VCC:
+
 1. Open VCC
 2. Click `Settings` in the bottom left
 3. Click the `Packages` tab at the top
