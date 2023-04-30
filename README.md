@@ -10,7 +10,7 @@ This functions similarly to [SouljaVR/AutoImmobilizeOSC](https://github.com/Soul
 
 # Download
 
-Either download the latest release from [here](https://github.com/I5UCC/VRCImmersiveImmobilize/releases/latest), or add my Repository to VCC (VRChat Creator Companion):
+Either download the latest release from here, or add my Repository to VCC (VRChat Creator Companion):
 
 [<img src="https://user-images.githubusercontent.com/43730681/235305688-08099e52-2ea8-4b28-b647-4cef10c4d073.png"  width="270" height="35">](https://i5ucc.github.io/vpm/VRCImmersiveImmobilize.html) <br>
 
