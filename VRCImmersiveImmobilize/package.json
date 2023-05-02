@@ -1,7 +1,7 @@
 {
   "name": "com.i5ucc.vrcimmersiveimmobilize",
   "displayName": "VRCImmersiveImmobilize",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Automatically immobilizing an avatar, when the sticks moving.",
   "files": [
     "Editor/VRCImmersiveImmobilize_Installer.cs",
