@@ -66,3 +66,11 @@ Read the Documentation on ThumbparamsOSC, on how to set it up. For this case, we
 ### Testing if it works
 You can check VRChats debug menu to see if the Parameter `Locomotion` switches between `Disabled` and `Enabled`, depending if you are moving or not.
 If that isnt working, follow [ThumbparamsOSC Troubleshooting steps](https://github.com/I5UCC/VRCThumbParamsOSC#osc-troubleshoot).
+
+### Caveats of this system
+- You will be unable to jump while not moving, as the system will immobilize you when you arent moving.
+- When moving while calibrating and then standing still, the avatar might freeze, you can mitigate this by either:
+    - not moving when loading into the avatar
+    - reloading the avatar
+    - pushing the right stick downwards
+- Pointed out by 'Kung' (VRC Team), "If you turn 180 in playspace and then locomote, remote users will see a quick springing of the player root catching up to the new orientation while tweening. In local view it won't be visible."
