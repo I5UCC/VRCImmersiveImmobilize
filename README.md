@@ -10,6 +10,15 @@ This project also features an easy installer Script in Unity.
 
 ### [<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg"  width="20" height="20"> Discord Support Server](https://discord.gg/rqcWHje3hn)
 
+# Contents
+
+- [Download](https://github.com/I5UCC/VRCImmersiveImmobilize#download)
+- [Demonstration](https://github.com/I5UCC/VRCImmersiveImmobilize#demonstration)
+- [Installation](https://github.com/I5UCC/VRCImmersiveImmobilize#installation)
+- [ThumbparamsOSC](https://github.com/I5UCC/VRCImmersiveImmobilize#thumbparamsosc)
+- [Testing](https://github.com/I5UCC/VRCImmersiveImmobilize#testing)
+- [Caveats](https://github.com/I5UCC/VRCImmersiveImmobilize#caveats)
+
 # Download
 
 Either download the latest release from here, or add my Repository to VCC (VRChat Creator Companion):
@@ -63,11 +72,11 @@ or <br>
 This program needs [ThumbparamsOSC](https://github.com/I5UCC/VRCThumbParamsOSC) running in the background, to capture stick movements and send that information to your Avatar via OSC.
 Read the Documentation on ThumbparamsOSC, on how to set it up. For this case, we only need the two parameters `LeftStickMoved` and `RightStickMoved`. You can turn off any other parameters ThumbparamsOSC is sending to VRChat, if you wish so.
 
-### Testing if it works
+### Testing
 You can check VRChats debug menu to see if the Parameter `Locomotion` switches between `Disabled` and `Enabled`, depending if you are moving or not.
 If that isnt working, follow [ThumbparamsOSC Troubleshooting steps](https://github.com/I5UCC/VRCThumbParamsOSC#osc-troubleshoot).
 
-### Caveats of this system
+### Caveats
 - You will be unable to jump while not moving, as the system will immobilize you when you arent moving.
 - When moving while calibrating and then standing still, the avatar might freeze, you can mitigate this by either:
     - not moving when loading into the avatar
