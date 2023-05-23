@@ -19,11 +19,11 @@ This project also features an easy installer Script in Unity.
 
 # The Problem, Workaround and Caveats
 
-In the below video, the left is the local view and the right is the networked view:
+In the below video, the left is the local view and the right is the networked view: <br>
+Credit to [Natsumi-sama](https://github.com/Natsumi-sama) for this video.
 
 https://github.com/I5UCC/VRCImmersiveImmobilize/assets/43730681/c624a22e-6af4-4e18-8e23-674f3c377d44
 
-Credit to [Natsumi-sama](https://github.com/Natsumi-sama) for this video. <br>
 The networked view has very strong visual jitter, that isnt visible locally. <br>
 This project aims to work around that problem by Immobilizing your avatar automatically while you arent moving. This also removes jittering of objects placed in the world with constraints and allows entering walls and objects, without breaking tracking.
 
