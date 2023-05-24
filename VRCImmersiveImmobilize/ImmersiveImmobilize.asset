@@ -10,16 +10,26 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
-  m_Name: VRCII_Menu
+  m_Name: ImmersiveImmobilize
   m_EditorClassIdentifier: 
   controls:
-  - name: ImmersiveImmobilize
+  - name: Manual Immobilize
     icon: {fileID: 0}
-    type: 103
+    type: 102
     parameter:
-      name: 
+      name: Immobilize
     value: 1
     style: 0
-    subMenu: {fileID: 11400000, guid: 88825786659b1564d9ca16a170d8baa2, type: 2}
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Disable AutoImmobilize
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: DisableImmobilize
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
     subParameters: []
     labels: []
