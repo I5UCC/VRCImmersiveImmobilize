@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   controls:
   - name: ImmersiveImmobilize
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: 778f36f952745df4fa64d2972a31dace, type: 3}
     type: 103
     parameter:
       name: 

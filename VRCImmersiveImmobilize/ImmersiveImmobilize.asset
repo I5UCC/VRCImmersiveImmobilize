@@ -23,7 +23,7 @@ MonoBehaviour:
     subMenu: {fileID: 0}
     subParameters: []
     labels: []
-  - name: Disable AutoImmobilize
+  - name: Disable Auto-Immobilize
     icon: {fileID: 0}
     type: 102
     parameter:
