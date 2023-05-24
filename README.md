@@ -2,7 +2,7 @@
 
 Workaround for the remote IK jitter issue in VRChat when using full body tracking. <br>
 
-This functions similarly to [SouljaVR/AutoImmobilizeOSC](https://github.com/SouljaVR/AutoImmobilizeOSC) while not using the controllers touch capacitors to trigger immobilization, but rather the state of movement on both sticks. Hence working around the problem while having less noticeable inconveniniences (at least in my opinion)
+This functions similarly to [SouljaVR/AutoImmobilizeOSC](https://github.com/SouljaVR/AutoImmobilizeOSC) while not using the controllers touch capacitors to trigger immobilization, but rather the state of movement on both sticks. Hence working around the problem while having less noticeable inconveniences (at least in my opinion)
 
 This project also features an easy installer Script in Unity.
 
