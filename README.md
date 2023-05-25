@@ -11,11 +11,11 @@ This project also features an easy installer Script in Unity.
 # Contents
 
 - [The Problem, Workaround and Caveats](https://github.com/I5UCC/VRCImmersiveImmobilize#the-problem-workaround-and-caveats)
-- [Download](https://github.com/I5UCC/VRCImmersiveImmobilize#download)
 - [Demonstration](https://github.com/I5UCC/VRCImmersiveImmobilize#demonstration)
+- [Download](https://github.com/I5UCC/VRCImmersiveImmobilize#download)
 - [Installation](https://github.com/I5UCC/VRCImmersiveImmobilize#installation)
 - [ThumbparamsOSC](https://github.com/I5UCC/VRCImmersiveImmobilize#thumbparamsosc)
-- [Testing](https://github.com/I5UCC/VRCImmersiveImmobilize#testing)
+- [Testing](https://github.com/I5UCC/VRCImmersiveImmobilize#testing-if-it-works)
 
 # The Problem, Workaround and Caveats
 
@@ -39,6 +39,10 @@ Though it does fix the problem, it comes with some caveats:
 
 ### Please upvote this [VRChat Canny](https://feedback.vrchat.com/vrchat-ik-20/p/network-jitter-with-ik) to get this problem fixed on VRChats end, so working around it isn't needed anymore.
   
+# Demonstration
+
+[Soon TM]
+
 # Download
 
 Either download the latest release from [here](https://github.com/I5UCC/VRCImmersiveImmobilize/releases), or add my Repository to VCC (VRChat Creator Companion):
@@ -62,10 +66,6 @@ or <br>
   
   PS: You can also add `https://i5ucc.github.io/vpm/main.json` to add all of my projects (and future ones) to VCC.
 </details>
-
-# Demonstration
-
-[Soon TM]
 
 # Installation
 
@@ -92,9 +92,6 @@ or <br>
 This program needs [ThumbparamsOSC](https://github.com/I5UCC/VRCThumbParamsOSC) running in the background, to capture stick movements and send that information to your Avatar via OSC.
 Read the Documentation on ThumbparamsOSC, on how to set it up. For this case, we only need the two parameters `LeftStickMoved` and `RightStickMoved`. You can turn off any other parameters ThumbparamsOSC is sending to VRChat, if you wish so.
 
-### Testing
+### Testing if it works
 You can check VRChats debug menu to see if the Parameter `Locomotion` switches between `Disabled` and `Enabled`, depending if you are moving or not.
 If that isnt working, follow [ThumbparamsOSC Troubleshooting steps](https://github.com/I5UCC/VRCThumbParamsOSC#osc-troubleshoot).
-
-### Caveats
-
