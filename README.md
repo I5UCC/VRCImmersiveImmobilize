@@ -24,17 +24,17 @@ Credit to [Natsumi-sama](https://github.com/Natsumi-sama) for this video.
 
 https://github.com/I5UCC/VRCImmersiveImmobilize/assets/43730681/c624a22e-6af4-4e18-8e23-674f3c377d44
 
-The networked view has very strong visual jitter, that isnt visible locally. <br>
-This project aims to work around that problem by Immobilizing your avatar automatically while you arent moving. This also removes jittering of objects placed in the world with constraints and allows entering walls and objects, without breaking tracking.
+The networked view has very strong visual jitter, that isn't visible locally. <br>
+This project aims to work around that problem by immobilizing your avatar automatically while you aren't moving. This also removes jittering of objects placed in the world with constraints and allows entering walls and objects, without breaking tracking.
 
 Though it does fix the problem, it comes with some caveats:
-- You will be unable to jump while not moving, as the system will immobilize you when you arent moving.
-- Your Nameplate and Textbox will stay on the last position you were Immobilized to. 
+- You will be unable to jump while not moving, as the system will immobilize you when you aren't moving.
+- Your Nameplate and Textbox will stay on the last position you were immobilized to. 
 - When moving while calibrating and then standing still, the avatar might freeze, you can mitigate this by either:
     - not moving when loading into the avatar
     - reloading the avatar
     - pushing the right stick downwards
-- When using toggles with VRChats radial menu, you will be constantly immobilizing and deimmobilizing yourself, this can lead to physbones jumping around a little bit. This is only visible locally.
+- When using toggles with VRChats radial menu, you will be constantly immobilizing and de-immobilizing yourself, this can lead to physbones jumping around a little bit. This is only visible locally.
 - Pointed out by 'Kung' (VRC Team), "If you turn 180 in playspace and then locomote, remote users will see a quick springing of the player root catching up to the new orientation while tweening. In local view it won't be visible."
 
 ### Please upvote this [VRChat Canny](https://feedback.vrchat.com/vrchat-ik-20/p/network-jitter-with-ik) to get this problem fixed on VRChats end, so working around it isn't needed anymore.
