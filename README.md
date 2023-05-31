@@ -86,7 +86,7 @@ or <br>
     - RightStickMoved (Bool)
     - Immobilize (Bool)
     - DisableImmobilize (Bool)
-- Add a new Control to your Avatars Expression menu with the type `Toggle` and using the parameter `Immobilize`
+- Add a two new Controls to your Avatars Expression menu with the type `Toggle` and using the parameter `Immobilize` and `DisableImmobilize`
 - Continue at [#ThumbparamsOSC](https://github.com/I5UCC/VRCImmersiveImmobilize#thumbparamsosc)
 
 ### ThumbparamsOSC
