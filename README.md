@@ -11,7 +11,6 @@ This project also features an easy installer Script in Unity.
 # Contents
 
 - [The Problem, Workaround and Caveats](https://github.com/I5UCC/VRCImmersiveImmobilize#the-problem-workaround-and-caveats)
-- [Demonstration](https://github.com/I5UCC/VRCImmersiveImmobilize#demonstration)
 - [Download](https://github.com/I5UCC/VRCImmersiveImmobilize#download)
 - [Installation](https://github.com/I5UCC/VRCImmersiveImmobilize#installation)
 - [ThumbparamsOSC](https://github.com/I5UCC/VRCImmersiveImmobilize#thumbparamsosc)
