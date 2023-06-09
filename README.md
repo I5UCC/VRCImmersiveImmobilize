@@ -43,11 +43,6 @@ A fix for this is in progress by VRChat themselves!
 
 ![image](https://github.com/I5UCC/VRCImmersiveImmobilize/assets/43730681/0f20d486-548e-4bb0-827b-8cc6c83e7a7a)
 
-  
-# Demonstration
-
-[Soon TM]
-
 # Download
 
 Either download the latest release from [here](https://github.com/I5UCC/VRCImmersiveImmobilize/releases), or add my Repository to VCC (VRChat Creator Companion):
