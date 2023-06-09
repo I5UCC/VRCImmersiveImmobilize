@@ -38,6 +38,11 @@ Though it does fix the problem, it comes with some caveats:
 - Pointed out by 'Kung' (VRC Team), "If you turn 180 in playspace and then locomote, remote users will see a quick springing of the player root catching up to the new orientation while tweening. In local view it won't be visible."
 
 ### Please upvote this [VRChat Canny](https://feedback.vrchat.com/vrchat-ik-20/p/network-jitter-with-ik) to get this problem fixed on VRChats end, so working around it isn't needed anymore.
+
+A fix for this is in progress by VRChat themselves!
+
+![image](https://github.com/I5UCC/VRCImmersiveImmobilize/assets/43730681/0f20d486-548e-4bb0-827b-8cc6c83e7a7a)
+
   
 # Demonstration
 
