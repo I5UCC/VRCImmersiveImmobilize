@@ -38,9 +38,9 @@ Though it does fix the problem, it comes with some caveats:
 
 ### Please upvote this [VRChat Canny](https://feedback.vrchat.com/vrchat-ik-20/p/network-jitter-with-ik) to get this problem fixed on VRChats end, so working around it isn't needed anymore.
 
-A fix for this is in progress by VRChat themselves!
+A fix for this is available in next release by VRChat themselves!
 
-![image](https://github.com/I5UCC/VRCImmersiveImmobilize/assets/43730681/0f20d486-548e-4bb0-827b-8cc6c83e7a7a)
+![image](https://github.com/I5UCC/VRCImmersiveImmobilize/assets/43730681/080a1fce-1ce4-4d37-9efc-034448509586)
 
 # Download
 
