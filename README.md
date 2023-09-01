@@ -1,5 +1,8 @@
 # VRCImmersiveImmobilize [![Github All Releases](https://img.shields.io/github/downloads/i5ucc/VRCImmersiveImmobilize/total.svg)](https://github.com/I5UCC/VRCImmersiveImmobilize/releases/latest) <a href='https://ko-fi.com/i5ucc' target='_blank'><img height='35' style='border:0px;height:25px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
+This issue has been fixed and has been released:<br>
+![image](https://github.com/I5UCC/VRCImmersiveImmobilize/assets/43730681/01461749-5a00-44e2-9610-bb4b4e5b6274)
+
 Workaround for the remote IK jitter issue in VRChat when using full body tracking. <br>
 
 This functions similarly to [SouljaVR/AutoImmobilizeOSC](https://github.com/SouljaVR/AutoImmobilizeOSC) while not using the controllers touch capacitors to trigger immobilization, but rather the state of movement on both sticks. Hence working around the problem while having less noticeable inconveniences (at least in my opinion)
@@ -35,12 +38,6 @@ Though it does fix the problem, it comes with some caveats:
     - pushing the right stick downwards
 - When using toggles with VRChats radial menu, you will be constantly immobilizing and de-immobilizing yourself, this can lead to physbones jumping around a little bit. This is only visible locally.
 - Pointed out by 'Kung' (VRC Team), "If you turn 180 in playspace and then locomote, remote users will see a quick springing of the player root catching up to the new orientation while tweening. In local view it won't be visible."
-
-### Please upvote this [VRChat Canny](https://feedback.vrchat.com/vrchat-ik-20/p/network-jitter-with-ik) to get this problem fixed on VRChats end, so working around it isn't needed anymore.
-
-A fix for this is available in next release by VRChat themselves!
-
-![image](https://github.com/I5UCC/VRCImmersiveImmobilize/assets/43730681/080a1fce-1ce4-4d37-9efc-034448509586)
 
 # Download
 
